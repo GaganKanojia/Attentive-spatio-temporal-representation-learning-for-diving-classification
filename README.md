@@ -1,1 +1,1 @@
-# AttentiveRepLearning_CVPRW19
+# Attentive spatio-temporal representation learning for diving classification
